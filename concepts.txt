@@ -1,0 +1,5 @@
+Important C++ Concepts:
+1. Data Types
+2. Control Flow
+3. Loops and Arrays
+4. File Streams (ifstream)

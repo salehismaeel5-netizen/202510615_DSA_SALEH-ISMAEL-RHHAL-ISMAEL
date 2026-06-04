@@ -1,0 +1,2 @@
+C++ was created by Bjarne Stroustrup at Bell Labs in 1979.
+It was initially known as C with Classes.
